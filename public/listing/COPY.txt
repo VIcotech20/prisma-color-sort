@@ -1,0 +1,26 @@
+PRISMA
+Sort the spectrum.
+
+SHORT (EN)
+Pour pigment. Cork the vial. A premium color-sort puzzle.
+
+SHORT (ES)
+Vierte el pigmento. Sella el frasco. Color-sort premium.
+
+DESCRIPTION (EN)
+PRISMA is a hybrid-casual color sort. Drag pigment from vial to vial, keep a combo, and cork each flask when the spectrum is solved. 200 levels, a daily challenge, Eclipse vials that hide their color, and boosters (undo, hint, extra vial). Play in the browser. No account.
+
+DESCRIPTION (ES)
+PRISMA es un color-sort hybrid-casual. Arrastra el pigmento de frasco a frasco, mantén la racha y sella cada tubo cuando el espectro está resuelto. 200 niveles, desafío diario, tubos Eclipse que esconden el color, y ayudas (deshacer, pista, tubo extra). Se juega en el navegador. Sin cuenta.
+
+TAGS
+Puzzle, Sorting, Casual, Relaxing, Color, Arcade, Singleplayer, HTML5
+
+CATEGORY
+Puzzle
+
+PRIVACY
+/privacidad
+
+CONTROLS
+Drag from one vial to another. Tap to select, tap to pour.
